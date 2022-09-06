@@ -54,7 +54,7 @@ ___
 
 **Courses:**
 
-🅰 JavaScript learn.javascript.ru (in progress)<br>
+🅰 JavaScript [learn.javascript.ru](https://learn.javascript.ru/) (in progress)<br>
 🅱 Now I am actively learning the material from (RS Shool)*#Stage 0*<br>
 🅾 I also take courses at PurpleSchool learn.purpleschool.ru/public (in progress)
 ___
